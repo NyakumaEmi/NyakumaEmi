@@ -18,8 +18,7 @@ I am in the process of uploading more of my scripts to github so more artists ca
 ### [TEXTOPO 🎨](https://github.com/NyakumaEmi/TEXTOPO)
 **TEXTOPO** is a **Unity** automation utility designed to automate the merging of four independent textures into a single high-resolution texture atlas.
 ### [Multi-Mesh UV De-Triangulate △→□](https://github.com/NyakumaEmi/Multi-Mesh-UV-De-Triangulate)
-**Multi-Mesh UV Guided De-Triangulate** is a **Blender** 5.0 add-on designed to automate restoration of triangulated meshes that are attached to an armature back to their original quad topology.
-
+**Multi-Mesh UV Guided De-Triangulate** is a **Blender** 5.0 add-on designed to automate restoration of triangulated meshes that are attached to an armature back to quads by referencing their original quad-topology by using the original UV Map as a guide.
 ### Additional scripts I am currently working on are usually available to view on my [Trello💜](https://trello.com/b/lFClUQuN)
 
 ## Software I Use:
