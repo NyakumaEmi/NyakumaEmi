@@ -5,11 +5,17 @@
  ___| \|  | /——\ |  \ \__/___        
 ````
 ## About Me :3
-### 🎨 Blender & Unity Technical Artist  | VRChat Creator | 🐱 VTuber
+### 🎨 Blender & Unity Technical Artist  | VRChat Creator
 Pronouns: She / Her
 
-### 💜 I write scripts that automate the boring and tedious parts of creating VRChat avatars / assets :3 💜
-I am in the process of uploading more of my internal scripts to github so more artists can use them in their workflow. 🫶🥰
+### 💜 I write and translate scripts that automate the boring and tedious parts of creating VRChat avatars and assets :3 💜
+
+## 🔤 Featured Add-ons for Blender I've translated
+### [MochiFitter-BlenderAddon-kai-EN](https://github.com/NyakumaEmi/MochiFitter-BlenderAddon-kai-EN)
+English Translation of Mega-Gorilla's MochiFitter Blender Add-on Optimization and Refactoring Project. Translated from Japanese to English using DeepL. Compatible with Blender 4.0.0 - 4.5.X LTS.
+
+### [Mio3 Avatar Tools](https://github.com/NyakumaEmi/mio3_avatar_tools)
+English Translation of Mio3io's Blender addon for bone editing support (for Blender 4.2 and newer). Batch Conversion of Bone Name Formats, Add a Humanoid Armature to the scene for VRChat, Even Out Bones, Align Bones (Based on the first and last bones), Assign Sequential Numbers to Bones. Supports custom bone name prefixes as well.
 
 ## 🔧 Featured Add-Ons For Unity and Blender 
 
@@ -30,7 +36,7 @@ This tool was specifically built in mind for VRChat avatar creators and 3D outfi
 
 ## Software I Use:
 
-### [Unity - 2022.3.22f1](https://unity.com/releases/editor/whats-new/2022.3.22f1) | Blender 4.2 ~ [5.0.0](https://www.blender.org/download/releases/5-0/) | [Visual Studio Code](https://code.visualstudio.com/) | [Clip Studio Paint EX](https://www.clipstudio.net/en/) | [Paint.NET](https://getpaint.net/) | OS: Windows 11
+### [Unity - 2022.3.22f1](https://unity.com/releases/editor/whats-new/2022.3.22f1) | Blender 4.2 ~ 5.0.0| [Visual Studio Code](https://code.visualstudio.com/) | [Clip Studio Paint EX](https://www.clipstudio.net/en/) | [Paint.NET](https://getpaint.net/) | OS: Windows 11
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
